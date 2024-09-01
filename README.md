@@ -25,7 +25,7 @@ The Phalanx is a sophisticated system designed for robust API management, securi
 
 ### 4. Scout
 - **Function:** Security Scanning and Reporting
-- **Repository:** Scout Repo
+- **Repository:** [Scout Repo](https://github.com/phalanxAPI/scout.git)
 - **Description:** Scout is responsible for scanning the entire application for vulnerabilities. It performs security checks across various layers of the system, generating detailed reports that highlight potential risks and recommend remediation steps.
 - - **Commands to Run:**
   ```bash
@@ -35,7 +35,7 @@ The Phalanx is a sophisticated system designed for robust API management, securi
   bun run index.ts
 ### 5. Lighthouse
 - **Function:** Microservice Management and Orchestration
-- **Repository:** Lighthouse Repo
+- **Repository:** [Lighthouse Repo](https://github.com/phalanxAPI/lighthouse.git)
 - **Description:** Lighthouse orchestrates the microservices, ensuring smooth communication and operation. It interacts directly with the Commander dashboard to provide a cohesive management experience. Lighthouse also coordinates the other microservices—Navigator, Sysmon, Inbound, and Outbound—ensuring they function together effectively.
 - - **Commands to Run:**
   ```bash
