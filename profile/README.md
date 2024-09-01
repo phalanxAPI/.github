@@ -1,5 +1,10 @@
 # Phalanx 
 
+
+- Deployed Link: [phalanx.next-byte.tech](https://phalanx.next-byte.tech/)
+- Test Server: [test.next-byte.tech](https://test.next-byte.tech/)
+
+
 ## Overview
 
 The Phalanx is a sophisticated system designed for robust API management, security scanning, and microservice orchestration. This project integrates several key components, including a Next.js and Mantine-powered frontend dashboard, a MongoDB database, and a suite of microservices managed by the Phalanx enterprise server.
