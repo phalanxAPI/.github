@@ -2,7 +2,7 @@
 
 
 - Deployed Link: [phalanx.next-byte.tech](https://phalanx.next-byte.tech/)
-- Test Server: [test.next-byte.tech](https://test.next-byte.tech/)
+- Test Server: [bit.ly/phalanxapi-web](https://bit.ly/phalanxapi-web)
 
 
 ## Overview
